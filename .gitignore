@@ -1,0 +1,10 @@
+build
+*~
+app.iml
+build.gradle
+gradle
+gradlew
+gradlew.bat
+local.properties
+proguard-rules.pro
+
